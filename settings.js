@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['51931263982']
-global.premium = ['51931263982']
-global.ownernomer = '51931263982'
-global.ownername = 'Viggo Tarasov'
-global.botname = 'ROCKET-V2🚀'
+global.owner = ['50360210812']
+global.premium = ['50360210812']
+global.ownernomer = '50360210812'
+global.ownername = 'Christophersiu'
+global.botname = 'Chriss'
 global.footer = '©Ⓥⓘⓖⓖⓞ🥷🏻'
-global.ig = 'https://chat.whatsapp.com/C5gbjdSlAGm5HjGUc3tv9S'
+global.ig = 'whatsapp.com'
 global.region = 'República de AQP'
-global.sc = 'https://chat.whatsapp.com/C5gbjdSlAGm5HjGUc3tv9S'
-global.myweb = 'https://chat.whatsapp.com/C5gbjdSlAGm5HjGUc3tv9S'
+global.sc = 'whatsapp.com'
+global.myweb = 'whatsapp.com'
 global.packname = 'ROCKET-V2🚀'
 global.author = 'VIGGO😎😈.Todo lo que alguna vez deseaste está del otro lado del miedo.VIGGO😎😈'
 global.sessionName = 'session'
